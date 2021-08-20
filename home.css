@@ -1,0 +1,40 @@
+.hello {
+  height: 99.99%;
+  width: 75%;
+  color: #FFFFFF;
+  font-size: 44px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+
+
+}
+.desc{
+  font-size: 25px;
+  font-family: "Montserrat", sans-serif;
+  color: #6c757d;
+  text-align: center;
+  font-weight: lighter;
+
+}
+.line{
+  border-right: 3.5px solid #FFFFFF;
+  height:100%;
+
+}
+
+.left {
+  height: 100%;
+  color: #FFFFFF  ;
+  width: 25%;
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
+  text-align: right;
+}
+.pfp {
+  width: 150px;
+  height: 150px;
+  border-radius: 50% 50% 50% 50%;
+  -moz-position: center;
+  -webkit-position: center;
+  -ms-position: center;
+}
