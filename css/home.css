@@ -1,0 +1,161 @@
+body{
+  height: 100%;
+
+}
+.data1{
+  width: 7%;
+  height:100%;
+}
+
+.data2{
+
+  color: #FFFFFF;
+  font-family: "Montserrat", sans-serif;
+  padding-left:3%;
+  padding-right:3%;
+  -webkit-padding-left:3%;
+  -moz-padding-left:3%;
+  -ms-padding-left:3%;
+  -webkit-padding-right:3%;
+  -moz-padding-right:3%;
+  -ms-padding-right:3%;
+
+}
+.hel1{
+  font-size: 5vw;
+  padding-left:32%;
+  padding-right:50%;
+  padding-top: 3%;
+  -webkit-font-size: 5vw;
+  -moz-font-size: 5vw;
+  -ms-font-size: 5vw;
+  -webkit-padding-left:32%;
+  -moz-padding-left:32%;
+  -ms-padding-left:32%;
+  -webkit-padding-right:50%;
+  -moz-padding-right:50%;
+  -ms-padding-right:50%;
+  -webkit-padding-top: 3%;
+  -moz-padding-top: 3%;
+  -ms-padding-top: 3%;
+
+}
+
+ .desc{
+  font-size: 1.6vw;
+  -webkit-font-size: 1.6vw;
+  -moz-font-size: 1.6vw;
+  -ms-font-size: 1.6vw;
+  font-weight: lighter;
+  font-family: "Montserrat", sans-serif;
+  color: #6c757d;
+  padding-left:23%;
+  padding-right:25%;
+  -webkit-padding-left:23%;
+  -moz-padding-left:23%;
+  -ms-padding-left:23%;
+  -webkit-padding-right:25%;
+  -moz-padding-right:25%;
+  -ms-padding-right:25%;
+  -webkit-text-size-adjust: auto;
+  -moz-text-adjust: auto;
+  -ms-text-size-adjust:auto;
+
+
+}
+
+.desc1{
+font-size: 1.6vw;
+-webkit-font-size: 1.6vw;
+-moz-font-size: 1.6vw;
+-ms-font-size: 1.6vw;
+font-weight: lighter;
+ font-family: "Montserrat", sans-serif;
+ color: #6c757d;
+ padding-left:18%;
+ padding-right:25%;
+ -webkit-padding-left:18%;
+ -moz-padding-left:18%;
+ -ms-padding-left:18%;
+ -webkit-padding-right:25%;
+ -moz-padding-right:25%;
+ -ms-padding-right:25%;
+ -webkit-text-size-adjust: auto;
+ -moz-text-size-adjust: auto;
+ -ms-text-size-adjust:auto;
+
+}
+
+.verline1{
+  border-left: 3px solid white;
+  -webkit-border-left: 3px solid white;
+  -moz-border-left: 3px solid white;
+  -ms-border-left: 3px solid white;
+  height: 83.5%;
+  line-height: 90%;
+  display:inline-block;
+  position:absolute;
+  -webkit-position:absolute;
+  -moz-position:absolute;
+  -ms-position:absolute;
+  left:180px;
+  -webkit-left:180px;
+  -moz-left:180px;
+  -ms-left:180px;
+  top: 0;
+  -webkit-top:0;
+  -moz-top:0;
+  -ms-top:0;
+}
+
+.left {
+  height: 100%;
+  color: #FFFFFF  ;
+  width: 100%;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+.pfp {
+  width: 150px;
+  height: 150px;
+  border: 10px solid #001933;
+  border-radius: 50% 50% 50% 50%;
+  -moz-position: center;
+  -webkit-position: center;
+  -ms-position: center;
+}
+
+.btn{
+  padding-left:35%;
+  padding-right:30%;
+  padding-top: 2%;
+}
+ .button {
+   background-color: #4CAF50;
+    border: 1px solid green;
+    color: white;
+    padding: 0.5vw 0.3vw;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.3vw;
+    cursor: pointer;
+    width: 10vw;
+    display: block;
+}
+
+
+
+/* Achievements page styling */
+
+.hover01 figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover01 figure:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
