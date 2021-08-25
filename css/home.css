@@ -171,10 +171,18 @@ font-weight: lighter;
 	-webkit-transform: scale(1.3);
 	transform: scale(1.3);
 }
+#demo01{
+  display: inline-block;
+}
+#pog{
+  display: inline-block;
+}
+
 .achimg{
   height: 200px;
-  width:300px;
+  width:285px;
 }
+
 
 
 
