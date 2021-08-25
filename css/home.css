@@ -91,17 +91,16 @@ font-weight: lighter;
   -webkit-border-left: 3px solid white;
   -moz-border-left: 3px solid white;
   -ms-border-left: 3px solid white;
-  height: 83.5%;
-  line-height: 90%;
+  height: 100%;
   display:inline-block;
   position:absolute;
   -webkit-position:absolute;
   -moz-position:absolute;
   -ms-position:absolute;
-  left:180px;
-  -webkit-left:180px;
-  -moz-left:180px;
-  -ms-left:180px;
+  left:188px;
+  -webkit-left:188px;
+  -moz-left:188px;
+  -ms-left:188px;
   top: 0;
   -webkit-top:0;
   -moz-top:0;
@@ -115,6 +114,19 @@ font-weight: lighter;
   font-size: 20px;
   font-family: "Montserrat", sans-serif;
   text-align: center;
+}
+
+.nava1{
+  text-decoration: none;
+  color: white;
+}
+.nava1:hover{
+  color: red;
+}
+
+
+.name{
+  padding-bottom: 50%;
 }
 .pfp {
   width: 150px;
